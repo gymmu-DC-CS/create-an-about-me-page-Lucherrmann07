@@ -1,0 +1,22 @@
+/* .zentrieren {
+} */
+
+
+body {
+    background-color:rgba(8, 31, 96, 0.993);
+}
+
+
+h1 {
+    color: blue;
+}
+
+.roteliste {
+    background-color: aqua;
+}
+
+#ersterabschnitt {
+    background-color: aquamarine;
+    width: 60vw;
+    margin: auto;
+}
