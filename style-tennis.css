@@ -9,7 +9,7 @@ background-repeat: no-repeat;}
 
 
 .image-container {
-    border: 10px slategray solid;
-    margin-left: 700px;
+    border: 10px solid red;
+    margin-left: 650px;
 }
- 
+ body {color: red;}
