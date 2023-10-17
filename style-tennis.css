@@ -1,0 +1,15 @@
+/* .zentrieren {
+} */
+
+body {background-color: rgba(255, 157, 0, 0.772);}
+
+body {background-image: url(hintergrund\ bild.jpg);
+background-size: cover;
+background-repeat: no-repeat;}
+
+
+.image-container {
+    border: 10px slategray solid;
+    margin-left: 700px;
+}
+ 

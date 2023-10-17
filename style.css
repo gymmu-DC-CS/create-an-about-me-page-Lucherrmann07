@@ -22,15 +22,15 @@ h1 {
 }
 ersterabschnitt {
 background-color: blue;
-width: 60vw
+width: 60vw;
 border-left: 10px solid darkcyan; 
 }
 
 p {border: 2px solid powderblue;
 }   
-p {border: 2px solid yellow
-padding: 30px
+p {border: 2px solid yellow;
+padding: 30px;
 } 
-p {border: 2px solid powderblue
-margin: 50px
+p {border: 2px solid powderblue;
+margin: 50px;
 }
