@@ -1,15 +1,23 @@
 /* .zentrieren {
 } */
-
+h1 {margin-left: 80px;
+margin-top: 80px;}
 body {background-color: rgba(255, 157, 0, 0.772);}
-
+a {margin-left: 80px;}
 body {background-image: url(hintergrund\ bild.jpg);
 background-size: cover;
 background-repeat: no-repeat;}
-
-
-.image-container {
-    border: 10px solid red;
-    margin-left: 650px;
+h2 {margin-left: 80px;}
+.bild-mit-margin {margin-left: 80;}
+.image-container {border: 10px solid rgb(225, 90, 32);
+    margin-left: 50px solid yellow;
+    padding-left: 80px solid white;
+    width: 500px;
+.grid-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 10px; 
 }
- body {color: red;}
+
+body {color: rgb(225, 90, 32);}
+p {margin-left: 80px;}
