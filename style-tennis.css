@@ -1,0 +1,49 @@
+/* .zentrieren {
+} */
+h1 {margin-left: 80px;
+        margin-top: 80px;
+            background-color: aliceblue;}
+
+body {background-color: rgba(255, 157, 0, 0.772);}
+
+a {margin-left: 80px;}
+
+body {background-image: url(hintergrund\ bild.jpg);
+        background-size: cover;
+            background-repeat: no-repeat;}
+
+h2 {margin-left: 80px;}
+
+body {color: rgb(225, 90, 32)}
+
+p {margin-left: 80px;}
+
+h1 {
+    width: 300px;
+        height: 60px;
+            margin-left: 80px;
+                margin-top: 80px;
+                    background-color: yellow;
+                        animation: colorChange 2s infinite;
+}
+
+@keyframes colorChange {
+    0% {
+        background-color: yellow;
+    }
+    50% {
+        background-color: rgb(225, 90, 32);
+    }
+    100% {
+        background-color: white;
+    }
+}
+
+img {margin-left: 80px;}
+
+.bild-mit-margin {margin-left: 80;}
+.image-container {border: 7px solid rgb(225, 90, 32);
+    margin-left: 80px;
+    padding-left: 0px;
+    width: 932px;
+}
